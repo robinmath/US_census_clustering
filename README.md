@@ -1,2 +1,2 @@
 # US_census_clustering
-Just a read me
+This project was to cluster the US population for a credit issuing company
